@@ -1,0 +1,3 @@
+﻿  FunctionPointers.cpp
+D:\dev\CppLearning\CPP_Advanced_Purell\FunctionPointers\FunctionPointers.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+  FunctionPointers.vcxproj -> D:\dev\CppLearning\CPP_Advanced_Purell\Debug\FunctionPointers.exe
