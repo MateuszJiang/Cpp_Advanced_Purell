@@ -6,6 +6,8 @@
 
 bool newcustomer(double x);
 
+// examplary queue simulation
+
 int main()
 {
     std::srand(std::time(0));
