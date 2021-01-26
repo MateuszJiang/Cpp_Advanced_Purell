@@ -1,0 +1,6 @@
+﻿  VecSorting.cpp
+D:\dev\CppLearning\Cpp_Advanced_Purell\VecSorting\VecSorting.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+D:\dev\CppLearning\Cpp_Advanced_Purell\VecSorting\VecSorting.cpp(14,31): warning C4018: '<': signed/unsigned mismatch
+D:\dev\CppLearning\Cpp_Advanced_Purell\VecSorting\VecSorting.cpp(39,15): warning C4018: '<': signed/unsigned mismatch
+D:\dev\CppLearning\Cpp_Advanced_Purell\VecSorting\VecSorting.cpp(20): warning C4715: 'checkList': not all control paths return a value
+  VecSorting.vcxproj -> D:\dev\CppLearning\Cpp_Advanced_Purell\Debug\VecSorting.exe
